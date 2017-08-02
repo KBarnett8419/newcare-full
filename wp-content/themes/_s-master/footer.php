@@ -14,9 +14,6 @@
 	</div><!-- #content -->
 
 	<footer id="colophon" class="site-footer">
-		<div class="employee-login">
-			<a href="http://localhost/newcare-full/wp-login.php">Employee Login</a>
-		</div>
 		<div class="site-info">
 			<?php echo 'Copyright (c) 2017 New Care Associates, LLC. All Rights Reserved.'; ?>
 		</div><!-- .site-info -->
