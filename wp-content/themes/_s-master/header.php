@@ -14,6 +14,13 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="New Care Associates LLC. | Together We Achieve" />
+<meta property="og:description" content="Helping children with mental health disabilities in NJ to be more self-sufficient. - Serving Essex, Union, Middlesex, Passaic, Morris, Hudson, and Bergen county" />
+<meta property="og:url" content="http://newcarenj.org/" />
+<meta property="og:site_name" content="New Care Associates LLC." />
+<meta property="og:image" content="http://newcarenj.org/wp-content/uploads/2017/08/logo-trans-comp.png" />
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link href="https://fonts.googleapis.com/css?family=Prata|Raleway" rel="stylesheet">
 <?php wp_head(); ?>

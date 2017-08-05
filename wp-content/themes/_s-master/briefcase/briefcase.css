@@ -1,0 +1,47 @@
+.upload_content table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.upload_content td, .upload_content th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+
+
+.upload_content th {
+	font-weight: bold;
+}
+
+.upload_content th {
+	width: 10%;
+}
+
+.upload_content th.message {
+	width: 20%;
+}
+
+.upload_content th.name {
+	width: 15%;
+}
+
+.add_upload_content {
+	margin: 0 auto;
+}
+
+.add_upload_content .button, .add_upload_content .brief_input {
+	margin-top: 30px;
+}
+
+.add_upload_content .button input {
+margin-right: 10px;
+}
+
+
+.add_upload_content .brief_input p {
+	margin-bottom: 10px;
+}
+
